@@ -2,7 +2,8 @@
 Welcome to the personal README of Fathur Dewantoro, a Mobile Developer, and Fullstack enthusiast ✨
 
 ## About Me
-I am a software developer with a focus on mobile app development and fullstack development. I have a passion for creating useful and high-quality software solutions.
+I am a software developer focusing on mobile apps and full-stack development. I have a passion for creating useful and high-quality software solutions.
+If you want more about my project click [here](https://fathur-portfolio.web.app/).
 
 
 ## 💻 Tech Stack:
